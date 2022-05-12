@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imvivek69
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning React.Js
-- 💞️ I’m looking to collaborate on Oracle
 - 📫 How to reach me simpimishra.dp7@gmail.com
 
 <!---
